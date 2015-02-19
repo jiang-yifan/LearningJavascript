@@ -1,0 +1,13 @@
+/* PHASE 6: Sidebar */
+.profile-picture{
+  position: relative;
+  top: -120px;
+  background-image: url("../../shared/img/cat.jpg");
+  height: 200px;
+  background-size: cover;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-clip:content-b
+}
+
+.profile-info{
